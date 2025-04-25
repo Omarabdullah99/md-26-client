@@ -11,7 +11,7 @@ import MyEventList from "./pages/MyEventList";
 import UpdateEventPage from "./pages/UpdateEventPage";
 import EventDetailsPage from "./pages/DetailsPage";
 import ProductByCategory from "./pages/ProductByCategory";
-import ProductByKeyword from "./pages/ProductByKeyword.JSX";
+import ProductByKeyword from "./pages/ProductByKeyword";
 import { Toaster } from "react-hot-toast";
 import SaveListPage from "./pages/SaveListPage";
 
